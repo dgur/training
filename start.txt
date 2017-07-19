@@ -1,2 +1,3 @@
 Test git demo
 changing in branch 2
+changes in branch 3
